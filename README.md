@@ -1,8 +1,8 @@
-# Project 3 - *YelpSearch*
+# Project 3 - *Yelp*
 
-**YelpSearch** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
+**Yelp** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
-Time spent: **5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/KAEo3JT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/w4dKcip.gi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,7 +42,7 @@ Implementing auto layout for the first time was a little frustrating, but it loo
 
 ## License
 
-    Copyright [2016] [Sean Crenshaw]
+    Copyright [2016] [Lily Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
